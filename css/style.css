@@ -1,0 +1,62 @@
+body {
+    background-color: #DCD7C9;
+    text-align: center;
+    font-family: monospace;
+}
+
+.navbar {
+    color: #3F4E4F;
+    text-align: center;
+    list-style-position: inside;
+    display: inline;
+    margin: 10px;
+}
+
+h1 {
+    color: #2C3639;
+    font-style: bold;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+ul {
+    color: #3F4E4F;
+    list-style-type: none;
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+li .lists{
+    height:20px;
+    float:left;
+    list-style-type: none;
+    width:70px;
+    padding:3px;
+    background-repeat: no-repeat;
+    background-position: center 30px;
+    } 
+    
+
+.albumkapaklari {
+    text-align: center;
+}
+
+.footer {
+    list-style-position: inside;
+    background-color: #bcaa9d;
+    float: center;
+    padding: 10px;
+}
+
+img {
+    filter: brightness(80%) saturate(75%) contrast(150%);
+    width: 200px;
+    padding: 50px;
+}
+
+.vizyonmisyon {
+    color: #2C3639;
+    text-align: justify;
+}
